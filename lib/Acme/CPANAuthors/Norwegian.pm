@@ -4,7 +4,7 @@ use utf8; # encoding="utf-8"
 use warnings;
 use strict;
 
-our $VERSION = '0.1';
+our $VERSION = '0.11';
 
 use Acme::CPANAuthors::Register (
 	AFF       => 'Andreas Faafeng',
@@ -17,10 +17,17 @@ use Acme::CPANAuthors::Register (
 	COSIMO    => 'Cosimo Streppone',
 	CRAFFI    => 'Chris Dagdigian',
 	EARNESON  => 'Erik Arneson',
+	EBHANSSEN => 'Eirik Berg Hanssen',
 	GAFFER    => 'George A. Fitch III',
 	GAFFIE    => 'Mario Gaffiero',
 	GIRAFFED  => 'Bryan Henderson',
+	JANL      => 'Nicolai Langfeldt',
+	KJETIL    => 'Kjetil Skotheim',
+	KJETILK   => 'Kjetil Kjernsmo',
+	LARSNYG   => 'Lars Nygaard',
 	MRAMBERG  => 'Marcus Ramberg',
+	PEREINAR  => 'Per Einar Ellefsen',
+	PJACKLAM  => 'Peter John Acklam',
 	PRATZLAFF => 'Pete Ratzlaff',
 	RGRAFF    => 'Robert Graff',
 	SCHAFFTER => 'Gustav Schaffter',
@@ -28,6 +35,9 @@ use Acme::CPANAuthors::Register (
 	SLAFF     => 'Slavej Karadjov',
 	SSCAFFIDI => 'Stephen R. Scaffidi',
 	TAFFY     => 'David Kr�ber',
+	TECHIE    => 'Thomas Martinsen',
+	TERJE     => 'Terje Br�ten',
+	TROHAU    => 'Trond Haugen',
 );
 
 1;
@@ -67,7 +77,7 @@ via email or RT so I can always keep this module up to date.
 
 =head1 CONTAINED AUTHORS
 
-Now B<21> Norwegian CPAN authors:
+Now B<31> Norwegian CPAN authors:
 
 	AFF       => 'Andreas Faafeng',
 	ALKNAFF   => 'Alain Knaff',
@@ -79,10 +89,17 @@ Now B<21> Norwegian CPAN authors:
 	COSIMO    => 'Cosimo Streppone',
 	CRAFFI    => 'Chris Dagdigian',
 	EARNESON  => 'Erik Arneson',
+	EBHANSSEN => 'Eirik Berg Hanssen',
 	GAFFER    => 'George A. Fitch III',
 	GAFFIE    => 'Mario Gaffiero',
 	GIRAFFED  => 'Bryan Henderson',
+	JANL      => 'Nicolai Langfeldt',
+	KJETIL    => 'Kjetil Skotheim',
+	KJETILK   => 'Kjetil Kjernsmo',
+	LARSNYG   => 'Lars Nygaard',
 	MRAMBERG  => 'Marcus Ramberg',
+	PEREINAR  => 'Per Einar Ellefsen',
+	PJACKLAM  => 'Peter John Acklam',
 	PRATZLAFF => 'Pete Ratzlaff',
 	RGRAFF    => 'Robert Graff',
 	SCHAFFTER => 'Gustav Schaffter',
@@ -90,6 +107,9 @@ Now B<21> Norwegian CPAN authors:
 	SLAFF     => 'Slavej Karadjov',
 	SSCAFFIDI => 'Stephen R. Scaffidi',
 	TAFFY     => 'David Kr�ber',
+	TECHIE    => 'Thomas Martinsen',
+	TERJE     => 'Terje Br�ten',
+	TROHAU    => 'Trond Haugen',
 
 =head1 SEE ALSO
 
