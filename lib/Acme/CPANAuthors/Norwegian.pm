@@ -4,7 +4,7 @@ use utf8; # encoding="utf-8"
 use warnings;
 use strict;
 
-our $VERSION = '0.12';
+our $VERSION = '0.13';
 
 use Acme::CPANAuthors::Register (
 	AFF       => 'Andreas Faafeng',
@@ -22,6 +22,7 @@ use Acme::CPANAuthors::Register (
 	GAFFIE    => 'Mario Gaffiero',
 	GIRAFFED  => 'Bryan Henderson',
 	JANL      => 'Nicolai Langfeldt',
+	KIRILLM   => 'Кирилл Мязин',
 	KJETIL    => 'Kjetil Skotheim',
 	KJETILK   => 'Kjetil Kjernsmo',
 	LARSNYG   => 'Lars Nygaard',
@@ -77,7 +78,7 @@ via email or RT so I can always keep this module up to date.
 
 =head1 CONTAINED AUTHORS
 
-Now B<31> Norwegian CPAN authors:
+Now B<32> Norwegian CPAN authors:
 
 	AFF       => 'Andreas Faafeng',
 	ALKNAFF   => 'Alain Knaff',
@@ -94,6 +95,7 @@ Now B<31> Norwegian CPAN authors:
 	GAFFIE    => 'Mario Gaffiero',
 	GIRAFFED  => 'Bryan Henderson',
 	JANL      => 'Nicolai Langfeldt',
+	KIRILLM   => 'Кирилл Мязин',
 	KJETIL    => 'Kjetil Skotheim',
 	KJETILK   => 'Kjetil Kjernsmo',
 	LARSNYG   => 'Lars Nygaard',
