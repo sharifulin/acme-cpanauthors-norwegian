@@ -149,6 +149,10 @@ L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Acme-CPANAuthors-Norwegian>
 
 L<http://annocpan.org/dist/Acme-CPANAuthors-Norwegian>
 
+=item * CPANTS: CPAN Testing Service
+
+L<http://cpants.perl.org/dist/overview/Acme-CPANAuthors-Norwegian>
+
 =item * CPAN Ratings
 
 L<http://cpanratings.perl.org/d/Acme-CPANAuthors-Norwegian>
