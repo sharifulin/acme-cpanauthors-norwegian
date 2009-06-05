@@ -1,5 +1,8 @@
 Revision history for Acme-CPANAuthors-Norwegian
 
+0.14  2009-06-04 16:08
+	Wrong prereq in test suite
+
 0.13  2009-05-05 11:11
 	32 authors
 

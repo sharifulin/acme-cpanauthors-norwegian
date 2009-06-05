@@ -4,7 +4,7 @@ use utf8; # encoding="utf-8"
 use warnings;
 use strict;
 
-our $VERSION = '0.13';
+our $VERSION = '0.14';
 
 use Acme::CPANAuthors::Register (
 	AFF       => 'Andreas Faafeng',
