@@ -1,28 +1,30 @@
 ---
-name: Acme-CPANAuthors-Norwegian
-version: 0.14
+abstract: 'We are Norwegian CPAN authors'
 author:
   - 'Anatoly Sharifulin <sharifulin@gmail.com>'
-abstract: We are Norwegian CPAN authors
+build_requires:
+  Test::More: 0
+configure_requires:
+  Module::Build: 0.36
+generated_by: 'Module::Build version 0.3607'
+keywords:
+  - CPAN
+  - 'CPAN authors'
+  - Norwegian
 license: perl
-resources:
-  license: http://dev.perl.org/licenses/
-  repository: http://github.com/sharifulin/acme-cpanauthors-norwegian/tree
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Acme-CPANAuthors-Norwegian
+provides:
+  Acme::CPANAuthors::Norwegian:
+    file: lib/Acme/CPANAuthors/Norwegian.pm
+    version: 0.2
 requires:
   Acme::CPANAuthors: 0
   Acme::CPANAuthors::Register: 0
   perl: 5.006
-build_requires:
-  Test::More: 0
-provides:
-  Acme::CPANAuthors::Norwegian:
-    file: lib/Acme/CPANAuthors/Norwegian.pm
-    version: 0.14
-generated_by: Module::Build version 0.280801
-meta-spec:
-  url: http://module-build.sourceforge.net/META-spec-v1.2.html
-  version: 1.2
-keywords:
-  - CPAN
-  - CPAN authors
-  - Norwegian
+resources:
+  license: http://dev.perl.org/licenses/
+  repository: http://github.com/sharifulin/acme-cpanauthors-norwegian/tree
+version: 0.2

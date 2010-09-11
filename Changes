@@ -1,5 +1,8 @@
 Revision history for Acme-CPANAuthors-Norwegian
 
+0.2   2010-09-11 17:49
+	Remove SSCAFFIDI
+
 0.14  2009-06-04 16:08
 	Wrong prereq in test suite
 

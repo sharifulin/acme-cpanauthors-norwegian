@@ -4,7 +4,7 @@ use utf8; # encoding="utf-8"
 use warnings;
 use strict;
 
-our $VERSION = '0.14';
+our $VERSION = '0.2';
 
 use Acme::CPANAuthors::Register (
 	AFF       => 'Andreas Faafeng',
@@ -34,7 +34,6 @@ use Acme::CPANAuthors::Register (
 	SCHAFFTER => 'Gustav Schaffter',
 	SJN       => 'Salve J. Nilsen',
 	SLAFF     => 'Slavej Karadjov',
-	SSCAFFIDI => 'Stephen R. Scaffidi',
 	TAFFY     => 'David Kr�ber',
 	TECHIE    => 'Thomas Martinsen',
 	TERJE     => 'Terje Br�ten',
@@ -107,7 +106,6 @@ Now B<32> Norwegian CPAN authors:
 	SCHAFFTER => 'Gustav Schaffter',
 	SJN       => 'Salve J. Nilsen',
 	SLAFF     => 'Slavej Karadjov',
-	SSCAFFIDI => 'Stephen R. Scaffidi',
 	TAFFY     => 'David Kr�ber',
 	TECHIE    => 'Thomas Martinsen',
 	TERJE     => 'Terje Br�ten',
@@ -165,7 +163,7 @@ L<http://search.cpan.org/dist/Acme-CPANAuthors-Norwegian>
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright (C) 2009 by Anatoly Sharifulin.
+Copyright (C) 2009-2010 by Anatoly Sharifulin.
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
