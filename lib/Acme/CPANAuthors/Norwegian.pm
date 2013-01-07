@@ -34,9 +34,9 @@ use Acme::CPANAuthors::Register (
 	SCHAFFTER => 'Gustav Schaffter',
 	SJN       => 'Salve J. Nilsen',
 	SLAFF     => 'Slavej Karadjov',
-	TAFFY     => 'David Kr�ber',
+	TAFFY     => 'David Kröber',
 	TECHIE    => 'Thomas Martinsen',
-	TERJE     => 'Terje Br�ten',
+	TERJE     => 'Terje Bråten',
 	TROHAU    => 'Trond Haugen',
 );
 
@@ -77,7 +77,7 @@ via email or RT so I can always keep this module up to date.
 
 =head1 CONTAINED AUTHORS
 
-Now B<32> Norwegian CPAN authors:
+Now B<31> Norwegian CPAN authors:
 
 	AFF       => 'Andreas Faafeng',
 	ALKNAFF   => 'Alain Knaff',
@@ -106,9 +106,9 @@ Now B<32> Norwegian CPAN authors:
 	SCHAFFTER => 'Gustav Schaffter',
 	SJN       => 'Salve J. Nilsen',
 	SLAFF     => 'Slavej Karadjov',
-	TAFFY     => 'David Kr�ber',
+	TAFFY     => 'David Kröber',
 	TECHIE    => 'Thomas Martinsen',
-	TERJE     => 'Terje Br�ten',
+	TERJE     => 'Terje Bråten',
 	TROHAU    => 'Trond Haugen',
 
 =head1 SEE ALSO
