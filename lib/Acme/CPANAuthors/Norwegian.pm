@@ -31,6 +31,7 @@ use Acme::CPANAuthors::Register (
 	PJACKLAM  => 'Peter John Acklam',
 	PRATZLAFF => 'Pete Ratzlaff',
 	RGRAFF    => 'Robert Graff',
+	ROBINS    => 'Robin Smidsrød',
 	SCHAFFTER => 'Gustav Schaffter',
 	SJN       => 'Salve J. Nilsen',
 	SLAFF     => 'Slavej Karadjov',
@@ -103,6 +104,7 @@ Now B<31> Norwegian CPAN authors:
 	PJACKLAM  => 'Peter John Acklam',
 	PRATZLAFF => 'Pete Ratzlaff',
 	RGRAFF    => 'Robert Graff',
+	ROBINS    => 'Robin Smidsrød',
 	SCHAFFTER => 'Gustav Schaffter',
 	SJN       => 'Salve J. Nilsen',
 	SLAFF     => 'Slavej Karadjov',
@@ -163,7 +165,7 @@ L<http://search.cpan.org/dist/Acme-CPANAuthors-Norwegian>
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright (C) 2009-2010 by Anatoly Sharifulin.
+Copyright (C) 2009-2013 by Anatoly Sharifulin.
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
